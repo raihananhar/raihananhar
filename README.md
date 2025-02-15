@@ -1,5 +1,5 @@
 # 💫 About Me:
-##  Hey there, I'm Raihan Anhar👋 !<br>💻 Fullstack Developer | 🛠 Django & React Enthusiast | 🚀 Microservices & API Specialist  <br><br>###  About Me  <br>- 🎓 **Informatics Engineering Graduate** from **Universitas Pasundan**  <br>- 🔭 **Currently working on:** Fullstack web development with **Django (Microservices) & React**  <br>- 🌱 **Exploring:** Advanced **Frontend UI/UX & System Design**  <br>- 🔥 **Passionate about:** Building scalable backend systems & seamless frontend experiences  <br>  
+##  Hey there, I'm Raihan Anhar <br>💻 Junior Fullstack Developer | 🛠 Django & React Enthusiast | 🚀 Microservices & API Specialist  <br><br>###  About Me  <br>- 🎓 **Informatics Engineering Graduate** from **Universitas Pasundan**  <br>- 🔭 **Currently working on:** Fullstack web development with **Django (Microservices) & React**  <br>- 🌱 **Exploring:** Advanced **Frontend UI/UX & System Design**  <br>- 🔥 **Passionate about:** Building scalable backend systems & seamless frontend experiences  <br>  
 
 
 ## 🌐 Socials:
