@@ -1,6 +1,3 @@
-# 💫 About Me:
-##  Hey there, I'm Raihan Anhar <br>💻 Junior Fullstack Developer | 🛠 Django & React Enthusiast | 🚀 Microservices & API Specialist  <br><br>###  About Me  <br> 🔭 **Currently working on:** Fullstack web development with **Django (Microservices) & React**  <br> 🌱 **Exploring:** Advanced **Frontend UI/UX & System Design**  <br> 🔥 **Passionate about:** Building scalable backend systems & seamless frontend experiences  <br>  
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanannr@gmail.com) 
