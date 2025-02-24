@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-https://raihananhar.vercel.app/about
+[![Website](https://img.shields.io/badge/Website-00A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raihananhar.vercel.app/about)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanannr@gmail.com) 
 
 # 💻 Tech Stack:
